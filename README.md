@@ -2,7 +2,7 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <div id="header" align="center">
   <div id="badges header">
-    <a href="https://www.linkedin.com/in/fatxulla-keldiyarov">
+    <a href="https://www.linkedin.com/in/fatkhulla-keldiyarov">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.instagram.com/k_fathulla/">
@@ -29,7 +29,7 @@ I am a Full Stack .Net Developer <img src="https://media.giphy.com/media/WUlplcM
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on Leetcode and Codeforces.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-fatxulla-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fatxulla-keldiyarov)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-fatkhulla-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fatkhulla-keldiyarov)
 
 ---
 
